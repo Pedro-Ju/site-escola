@@ -1,11 +1,13 @@
 header{
-    background-color: rgb(68, 6, 1);
-    color: rgb(4, 211, 248);
+    background-color: rgb(0, 0, 0);
+    color: rgb(104, 230, 252);
 }
 
-.cabeçalho-imagem{
-    width: 20%;
+*{
+    margin: 0;
+    padding: 0;
 }
+
 .cabeçalho{
     background-color: midnightblue;
     color: #fff8b6;
@@ -14,12 +16,21 @@ header{
     align-items: center;
     padding: 24px 0;
 }
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
-*{
-    margin: 0;
-    padding: 0;
+
+.Escola-imagem{
+    width: 25%;
+}
+
+.Escola{
+    background-image: linear-gradient();
 }
